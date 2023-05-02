@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @myerraymond
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning .Net c# c++ java python
-- 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me N/A
+Hi, I'm Myer, a student with a passion for AI and Psychology. Currently pursuing a Major in AI and a Minor in Psychology, I'm eager to apply my skills and knowledge to help shape the world of technology for the better.
 
-Hello all! I'm extremely eager to be apart of any basic coding projects. Just really want to get my feelers out there and start getting involved in the beautiful world of tech! Please dont hesitate to reach out to me, id love to be given the opportunity to be apart of something!
+Throughout my studies, I've been fascinated by the intersection of AI and Psychology, exploring topics such as human-robot interaction, emotion recognition, and ethical AI. I believe that AI has enormous potential to enhance human well-being, and that we need to ensure that it does so in a way that is ethical, transparent, and beneficial for all.
 
-<!---
-myerraymond/myerraymond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a student, I'm actively seeking opportunities to learn and grow in the field of AI. I'm excited to connect with professionals in the industry, collaborate on innovative projects, and contribute to the advancement of this exciting field.
